@@ -1,9 +1,25 @@
-## Rainmeter skins
+### Rainmeter skins
 
-- 69 contributions 08.04.2021
-- [Amogus](https://github.com/sceleri/amogus) launch 22.05.2021
+- [Settings](https://github.com/sceleri/settings) a settings skin generator skin
+- [SwatchBar](https://github.com/sceleri/swatchbar) taskbar dwelling colour swatches
+- [Amogus](https://github.com/sceleri/amogus) a text based visualizer
 
-## Notes
+### Sites
+
+- [zeppe.li](http://zeppe.li) my homepage
+  - [repository](https://github.com/sceleri/pico-composer)
+- [tokens.zeppe.li] MTG tokens webapp
+  - [repository](https://github.com/sceleri/squire-tokens)
+  - [api](https://github.com/sceleri/tokens-db)
+
+### Social Media
+
+- Discord (me): Sceleri#1776
+- [Discord (server)](https://discord.gg/xSYUggh)
+- [YouTube](https://youtube.com/sceleri)
+
+### Stuff in /sceleri
 
 - [todo.md](./todo.md)
-- [projects.md](./projects.md)
+- [emotes](./emotes/)
+- [scripts](./scripts/)
