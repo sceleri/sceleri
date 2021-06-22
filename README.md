@@ -8,7 +8,7 @@
 
 - [zeppe.li](http://zeppe.li) my homepage
   - [repository](https://github.com/sceleri/pico-composer)
-- [tokens.zeppe.li] MTG tokens webapp
+- [tokens.zeppe.li](http://tokens.zeppe.li) MTG tokens webapp
   - [repository](https://github.com/sceleri/squire-tokens)
   - [api](https://github.com/sceleri/tokens-db)
 
